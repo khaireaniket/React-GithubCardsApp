@@ -1,0 +1,11 @@
+https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
+
+https://jscomplete.com/playground/rgs2.7
+
+https://github.com/facebook/create-react-app/issues/9273 (scroll down to cking27 answer)
+
+https://react-bootstrap.github.io/getting-started/introduction/
+
+https://codesandbox.io/s/n43z9w3o0?file=/src/index.js:2021-2032
+
+https://codesandbox.io/s/zen-wilbur-qugei?file=/src/ImageExample.js
